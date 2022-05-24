@@ -6,7 +6,6 @@
 
 ### Student
 - KAIST 전기 및 전자공학부 학생이에요. (휴학 중)
-- 현재 산업기능요원으로 군복무 중이에요.
 
 ### Contact
 - email: osjuny11@gmail.com
