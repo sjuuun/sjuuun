@@ -1,11 +1,17 @@
 ## 👋 안녕하세요 승준이에요!
 
-### Data Engineer
-- 매스프레소 데이터 팀에서 데이터 엔지니어로 일하고 있어요!
-- 스캐터랩에서 BLIMP 백엔드 개발자로 일했어요!
+### Work Experience
+- 매스프레소
+  - Data Team / Data Engineer
+  - 2021.10 ~ 2023.01
+- 스캐터랩
+  - BLIMP / Backend Engineer
+  - 2020.02 ~ 2021.09
 
-### Student
-- KAIST 전기 및 전자공학부 학생이에요. (휴학 중)
+### Education
+- KAIST
+  - 전기 및 전자공학부 전공 / 전산학부 부전공
+  - 2016.03 ~ 재학 중
 
 ### Contact
 - email: osjuny11@gmail.com
