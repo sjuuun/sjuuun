@@ -9,15 +9,15 @@
   - 2020.02 ~ 2021.09
 
 ### Education
-- KAIST EE
-  - 전기 및 전자공학부 전공 / 전산학부 부전공
-  - 2016.03 ~ 2024.02
 - KAIST AI
   - 김재철 AI 대학원 석사과정
   - 2024.02 ~ 재학중
+- KAIST EE
+  - 전기 및 전자공학부 전공 / 전산학부 부전공
+  - 2016.03 ~ 2024.02
 
 ### Contact
-- email: osjuny11@gmail.com
+- email: osjuny11@gmail.com / seungjun.oh@kaist.ac.kr
 
 <!---
 sjuuun/sjuuun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
