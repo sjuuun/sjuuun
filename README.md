@@ -1,9 +1,12 @@
 # 오승준 (Seungjun Oh)
 
 ## Contact
-- email: osjuny11@gmail.com / seungjun.oh@kaist.ac.kr
+- email: osjuny11@gmail.com
 
 ## Work Experience
+- NAVER
+  - 광고 프로덕트 / Data Engineer
+  - 2026.01 ~ 현재
 - 매스프레소
   - Data Team / Data Engineer
   - 2021.10 ~ 2023.01
@@ -13,10 +16,10 @@
 
 ## Education
 - KAIST AI
-  - 김재철 AI 대학원 석사과정
-  - 2024.02 ~ 재학중
+  - 졸업: 김재철 AI 대학원 석사과정
+  - 2024.02 ~ 2026.02
 - KAIST EE
-  - 전기 및 전자공학부 전공 / 전산학부 부전공
+  - 졸업: 전기 및 전자공학부 전공 / 전산학부 부전공
   - 2016.03 ~ 2024.02
 
 <!---
